@@ -17,17 +17,17 @@
         "SUPPORT": {
             "description": "ضع هنا معرف مجموعتك او قناتك بدون @",
             "required": false,
-            "value": "JMTHON"
+            "value": "invietamino"
         },
         "CHANNEL": {
             "description": "ضع معرف قناتك اذا اردت غير ذلك اتركها ",
             "required": false,
-            "value": "JMTHON"
+            "value": "invietamino"
         },
         "BOT_USERNAME": {
             "description": "هنا ضع معرف البوت بدون @",
             "required": false,
-            "value": ""
+            "value": "Aquad_Bot"
         },
         "BOT_TOKEN": {
             "description": "هنا ضع توكن بوتك",
