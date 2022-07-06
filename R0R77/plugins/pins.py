@@ -20,7 +20,7 @@ PINS_TEXT = """
 ‣ `!الرسائل المثبتة`
 لأظهار الرسائل المثبتة في المجموعة
 
-@jmthon
+@invietamino
 """
 
 @R0R77.on(events.NewMessage(pattern="^[?!/]الرسائل المثبتة"))
