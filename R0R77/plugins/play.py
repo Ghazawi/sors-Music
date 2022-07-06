@@ -25,10 +25,10 @@ from telethon.tl.functions.users import GetFullUserRequest
 from youtubesearchpython import VideosSearch
 
  
-fotoplay = "https://telegra.ph/file/b6402152be44d90836339.jpg"
-ngantri = "https://telegra.ph/file/b6402152be44d90836339.jpg"
+fotoplay = "https://i2.wp.com/saji0.com/wp-content/uploads/2019/09/36939.jpg?resize=1024%2C576&ssl=1"
+ngantri = "https://i2.wp.com/saji0.com/wp-content/uploads/2019/09/36939.jpg?resize=1024%2C576&ssl=1"
 from R0R77 import call_py, R0R77, client as Client
-owner = "1669178360"
+owner = "1924832651"
 from R0R77.helpers.yt_dlp import bash
 from R0R77.helpers.chattitle import CHAT_TITLE
 from R0R77.helpers.queues import (
